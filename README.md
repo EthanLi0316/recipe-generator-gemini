@@ -2,6 +2,9 @@
 
 A simple React application that generates a recipe based on ingredients you have on hand, powered by Google's Gemini AI.
 
+[recipe-generator-gemini.webm](https://github.com/user-attachments/assets/72ab0d0e-c48e-4ede-ac4b-e7deed242039)
+
+
 ## 🌟 Overview
 
 As a React learner, I built this project to practice React basics. The app allows users to:
