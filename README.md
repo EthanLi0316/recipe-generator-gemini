@@ -59,10 +59,4 @@ Through this project, I learned about:
 
 As a learning project, I welcome any suggestions or improvements!
 
----
-
 Created by Ethan Li
-
-```
-
-```
