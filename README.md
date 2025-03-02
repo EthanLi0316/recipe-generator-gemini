@@ -25,7 +25,7 @@ As a React learner, I built this project to practice React basics. The app allow
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/recipe-generator-gemini.git
+git clone https://github.com/EthanLi0316/recipe-generator-gemini.git
 cd recipe-generator-gemini
 ```
 
